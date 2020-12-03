@@ -1,5 +1,6 @@
 <section>
   <article *ngFor="let hero of heroes$ | async; trackBy: trackById">
-    <h1>{{ hero.firstName + " " + hero.lastName }}</h1>
+    <!-- <h1>{{ hero.firstName + " " + hero.lastName }}</h1> -->
+    <h1>{{ hero.fullName }}</h1>
   </article>
 </section>
