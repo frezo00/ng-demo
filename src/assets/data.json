@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "firstName": "Krunoslav",
+    "lastName": "Capak"
+  },
+  {
+    "id": 1,
+    "firstName": "Alemka",
+    "lastName": "Markotić"
+  },
+  {
+    "id": 2,
+    "firstName": "Davor",
+    "lastName": "Božinović"
+  },
+  {
+    "id": 3,
+    "firstName": "Frano",
+    "lastName": "Rezo"
+  },
+  {
+    "id": 4,
+    "firstName": "Ivan",
+    "lastName": "Babaja"
+  }
+]
